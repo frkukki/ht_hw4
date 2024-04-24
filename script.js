@@ -9,7 +9,8 @@ Highcharts.chart('container', {
     subtitle: {
         text: 'Source: ' +
             '<a href="https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature" ' +
-            'target="_blank">Wikipedia.com</a>'
+            'target="_blank">Wikipedia.com</a>'+
+		'<br>吳秉杰製作'
     },
     xAxis: {
         categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
